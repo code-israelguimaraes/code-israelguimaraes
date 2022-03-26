@@ -1,4 +1,4 @@
-<h1>Ola,eu sou israel guimaraes 🖐️</h1>
+<h1>Olá, sou israel guimarães 🖐️</h1>
 
 [![Youtube](https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3Hw9Quu1eSfM18T_9lDMlQ)
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eusouisraelguimaraes/)
@@ -7,7 +7,7 @@
 
 <!--[![novo]()]()-->
 
-<h2>Tecnologias que eu uso 💻</h2>
+<h2>tecnologia que eu domino 💻</h2>
 
 <div style="display:inline_block">
 
