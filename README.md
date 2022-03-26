@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1>Ola,eu sou israel guimaraes 🖐️</h1>
 
-<!--
-**code-israelguimaraes/code-israelguimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Youtube](https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3Hw9Quu1eSfM18T_9lDMlQ)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eusouisraelguimaraes/)
 
-Here are some ideas to get you started:
+![code-israelguimaraes GitHub stats](https://github-readme-stats.vercel.app/api?username=code-israelguimaraes&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--[![novo]()]()-->
+
+<h2>Tecnologias que eu uso 💻</h2>
+
+<div style="display:inline_block">
+
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML-3CB371?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/CSS-B22222?&style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=white">
+  
+<img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+
+  
+</div> 
