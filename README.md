@@ -5,6 +5,8 @@
 
 ![code-israelguimaraes GitHub stats](https://github-readme-stats.vercel.app/api?username=code-israelguimaraes&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-israelguimaraes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--[![novo]()]()-->
 
 <h2>tecnologia que eu domino 💻</h2>
