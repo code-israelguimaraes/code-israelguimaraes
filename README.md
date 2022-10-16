@@ -20,7 +20,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/-Python-orange?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/-Cpp-black?style=for-the-badge&logo=gnu-bash&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/-Sql-gray?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/-Mysql-blue?style=for-the-badge&logo=gnu-bash&logoColor=white">
 
 
 
