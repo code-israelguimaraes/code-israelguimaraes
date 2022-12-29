@@ -13,13 +13,8 @@
 
 <div style="display:inline_block">
 
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML-3CB371?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/CSS-B22222?&style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=white">
-  
 <img align="center" alt="html5" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/-Python-orange?style=for-the-badge&logo=gnu-bash&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/-Cpp-black?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/-Mysql-blue?style=for-the-badge&logo=gnu-bash&logoColor=white">
 
 
@@ -30,6 +25,6 @@
 
 Apaixonado por tecnologia, educação e mudar a vida das pessoas através da tecnologia e do conhecimento
 
-<h2>Último vídeo do canal 🎞️</h2>
+<h2>Meu canal no youtube,passa lá! 🎞️</h2>
 
-- [Video do canal](https://www.youtube.com/watch?v=p-Zk1bRaFqU)
+- [Canal](https://www.youtube.com/@israelguimaraes)
