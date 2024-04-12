@@ -14,7 +14,7 @@
 <div style="display:inline_block">
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/-C++-blue?&logoColor=white">
 
 
 </div>
